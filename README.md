@@ -1,18 +1,43 @@
-# 💫 About Me:
-I am a passionate Data Science enthusiast and aspiring Machine Learning Engineer dedicated to developing real-world, impact-driven AI solutions. I enjoy working across the entire data science lifecycle, from data collection and preprocessing to model development, evaluation, deployment, and visualization.<br><br>🔍 Core Areas of Expertise<br><br>Data Analysis & Visualization – Extracting insights and communicating findings using Power BI, Matplotlib, and Seaborn<br><br>Power BI Dashboards – Designing interactive, data-driven dashboards with KPIs, DAX measures, filters, and real-time insights<br><br>Machine Learning & Deep Learning – Building predictive models and neural networks to solve complex problems<br><br>Computer Vision (CNN-based models) – Specialized in image-based classification and analysis<br><br>AI-Powered Web Applications – Creating interactive and user-friendly AI-driven web apps<br><br>Model Deployment & Automation – Building scalable, production-ready AI systems<br><br>🚀 Hands-On Project Experience<br><br>Crop Disease Classification using CNNs with real-time prediction and prevention insights<br><br>Interactive AI Web Applications developed using Streamlit<br><br>RESTful APIs built with FastAPI for efficient model inference<br><br>Power BI Dashboards for business insights, performance tracking, and data storytelling<br><br>AI Agents for automating data analysis and machine learning workflows<br><br>🛠 Tech Stack & Tools<br><br>Languages: Python<br><br>Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras<br><br>BI Tools: Power BI (DAX, Power Query, Data Modeling)<br><br>Frameworks: Streamlit, FastAPI<br><br>Concepts: EDA, Feature Engineering, Model Optimization, Deployment, Data Modeling<br><br>Tools: Git, GitHub, Jupyter Notebook<br><br>📈 Continuous Learning<br><br>I am continuously enhancing my expertise in advanced machine learning, deep learning, Power BI analytics, and MLOps, with the goal of building scalable, insight-driven, and production-grade AI systems.
+# 💫 About Me
 
+I am a Data Science and Analytics enthusiast with hands-on experience in data collection, data cleaning, exploratory data analysis, machine learning, and visualization. I enjoy turning raw data into meaningful insights and building practical AI applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Patel Manthan ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelmanthan508@gmail.com) 
+🔍 **Core Areas of Interest**
+- 📊 Data Analysis & Visualization — Python, Pandas, Matplotlib, Seaborn, and Plotly
+- 📈 Business Intelligence — Power BI, KPI reporting, and dashboard development
+- 🤖 Machine Learning & Deep Learning — Scikit-learn, TensorFlow, Keras, and CNNs
+- 👁️ Computer Vision — Image classification and cotton leaf disease screening
+- 🌐 AI Applications — Interactive applications using Streamlit and Gradio
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patel-manthan-2210&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=patel-manthan-2210&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-manthan-2210&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
+
+- 🛒 **[Supermarket Sales Analysis](https://github.com/Patel-manthan-2210/supermarket-sales-analysis)** — Exploratory data analysis and sales visualizations.
+- 🌿 **Cotton Leaf Disease Classification** — CNN-based image classification and an interactive screening application.
+- 🏦 **Banking & Customer Analytics** — SQL queries, joins, aggregations, and customer data analysis.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM  
+**Business Intelligence:** Power BI  
+**Applications:** Streamlit, Gradio  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Jupyter Notebook
+
+## 🌐 Connect With Me
+
+- 🌐 **Portfolio:** [manthanpatel.netlify.app](https://manthanpatel.netlify.app/)
+- 💼 **LinkedIn:** [Patel Manthan](https://www.linkedin.com/in/patel-manthan-5a2a982ab/)
+- 📧 **Email:** [patelmanthan508@gmail.com](mailto:patelmanthan508@gmail.com)
+- 💻 **GitHub:** [Patel-manthan-2210](https://github.com/Patel-manthan-2210)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patel-manthan-2210&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patel-manthan-2210&layout=compact&theme=dark&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=patel-manthan-2210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ I'm continuously learning and building practical projects in data analytics, machine learning, and AI.
